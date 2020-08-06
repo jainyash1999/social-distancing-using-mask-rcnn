@@ -1,1 +1,2 @@
-# social-distancing-using-mask-rcnn
+# Mask_RCNN
+prediction using Mask RCNN
